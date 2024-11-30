@@ -48,6 +48,7 @@ public class Main
 
                 default:
                     System.out.println("Podaj poprawną opcję!");
+                    System.out.println("Proszę");
             }
 
 
