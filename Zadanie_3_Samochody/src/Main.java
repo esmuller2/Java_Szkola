@@ -48,9 +48,9 @@ public class Main {
 
         // Polecenie 2
 
-        for (Samochod samochod : samochody)
+        for (Samochod x : samochody)
         {
-            samochod.Wyswietl_Samochod();
+            x.Wyswietl_Samochod();
         }
 
         // Polecenie 3
